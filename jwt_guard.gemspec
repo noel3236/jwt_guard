@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
                      "APIs, it offers easy setup with environment-based customization and robust error handling."
   spec.homepage = "https://github.com/noel3236/jwt-guard"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.1.0"
+  spec.required_ruby_version = ">= 2.7.8"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
